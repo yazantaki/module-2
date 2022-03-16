@@ -17,7 +17,7 @@ h1 {
 section {
   border: 1px solid black;
   position: relative;
-  padding: 10px;
+  padding: 0 10px;
 }
 .section1 {
   background-color: #93df84e6;
@@ -46,7 +46,6 @@ p {
 .sec3 h2 {
   border-bottom: 1px solid black;
   border-left: 1px solid black;
-
   margin: 0;
   position: absolute;
   top: 0;
