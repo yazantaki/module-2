@@ -32,18 +32,11 @@ p {
   margin-top: 35px;
   font-size: 20px;
 }
-.sec1 h2 {
-  background-color: #1f9b7e;
-}
-.sec2 h2 {
-  background-color: #f4c9c9;
-}
-.sec3 h2 {
-  background-color: #a67313;
-}
+
 .sec1 h2,
 .sec2 h2,
 .sec3 h2 {
+  background-color: #e3c793;
   border-bottom: 1px solid black;
   border-left: 1px solid black;
   margin: 0;
